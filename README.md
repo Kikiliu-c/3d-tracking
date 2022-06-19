@@ -11,7 +11,7 @@ This is a repository for organizing articles related to object tracking, especia
 - [4. Statistics](#4-statistics)
 
 ## 1. Survey
-> #### 1) *Patrick Emami,Sanjay Ranka, "Machine Learning Methods for Data Association in Multi-Object Tracking"*, 2018, ACM Computing Surveys [[paper](https://arxiv.org/abs/1905.10048](https://arxiv.org/pdf/1802.06897.pdf)]
+> #### 1) *Patrick Emami,Sanjay Ranka, "Machine Learning Methods for Data Association in Multi-Object Tracking"*, 2018, ACM Computing Surveys [[paper](https://arxiv.org/pdf/1802.06897.pdf)]
 ---
 
 ## 2. Other repositories
